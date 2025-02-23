@@ -4,3 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+paq1-lib-error-handler = { git = "https://github.com/paq1/paq1-lib-error-handler.git", branch = "master", features = ["combine"] }
+paq1-lib-storage-infra = { git = "https://github.com/paq1/paq1-lib-storage.git", branch = "master", package = "infra" }
