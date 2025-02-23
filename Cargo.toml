@@ -1,0 +1,6 @@
+[package]
+name = "paq1-lib-cqrs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
