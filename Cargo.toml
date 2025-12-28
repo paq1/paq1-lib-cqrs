@@ -11,4 +11,4 @@ uuid = { version = "1.9.1", features = ["v4", "fast-rng", "macro-diagnostics"] }
 paq1_storage_core = { git = "https://github.com/paq1/paq1-lib-storage.git", branch = "master", version = "0.4.0"}
 paq1_storage_infra = { git = "https://github.com/paq1/paq1-lib-storage.git", branch = "master", version = "0.4.0"}
 #### security
-paq1_authn_core = { git = "https://github.com/paq1/paq1-lib-authn.git", branch = "master", version = "0.1.1" }
+paq1_authn_core = { git = "https://github.com/paq1/paq1-lib-authn.git", branch = "master", version = "0.1.2" }

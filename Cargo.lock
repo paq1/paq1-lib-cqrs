@@ -197,8 +197,8 @@ source = "git+https://github.com/paq1/paq1-lib-error-handler.git?branch=master#1
 
 [[package]]
 name = "paq1_authn_core"
-version = "0.1.1"
-source = "git+https://github.com/paq1/paq1-lib-authn.git?branch=master#7c93c3ef27ab409183645bdd90ec40a8bb20697d"
+version = "0.1.2"
+source = "git+https://github.com/paq1/paq1-lib-authn.git?branch=master#1f2091ae3d049e6d161785ca8591a3adc6b9f95c"
 dependencies = [
  "async-trait",
  "chrono",
