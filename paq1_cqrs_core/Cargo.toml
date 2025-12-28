@@ -1,0 +1,11 @@
+[package]
+name = "paq1_cqrs_core"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+#### basics
+async-trait = { workspace = true }
+paq1-lib-error-handler = { workspace = true }
+#### security
+paq1_authn_core = { workspace = true }
