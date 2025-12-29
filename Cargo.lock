@@ -207,7 +207,7 @@ dependencies = [
 
 [[package]]
 name = "paq1_cqrs_core"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "async-trait",
  "paq1-lib-error-handler",
@@ -216,7 +216,7 @@ dependencies = [
 
 [[package]]
 name = "paq1_cqrs_infra"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "async-trait",
  "paq1-lib-error-handler",
@@ -228,8 +228,8 @@ dependencies = [
 
 [[package]]
 name = "paq1_storage_core"
-version = "0.4.0"
-source = "git+https://github.com/paq1/paq1-lib-storage.git?branch=master#bdda29ff6ca59c86c5ec52f857935f681fcd2159"
+version = "0.5.0"
+source = "git+https://github.com/paq1/paq1-lib-storage.git?branch=master#bf5d77827aaa891f174e99cf5b06ac0b0ecb9a3f"
 dependencies = [
  "async-trait",
  "paq1-lib-error-handler",
